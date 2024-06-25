@@ -2035,6 +2035,14 @@ input, select, textarea {
 			font-family: 'Font Awesome 5 Brands';
 		}
 
+/* Project Pictures */
+
+
+.responsive {
+		max-width: 100%;
+		height: auto;
+	  }
+
 /* Image */
 
 	.image {
